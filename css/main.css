@@ -261,8 +261,13 @@ textarea {
   }
 }
 
+<<<<<<< HEAD
 /* los estilos del ro*/
 
 body {
   font-size: 50rem;
+=======
+.pruebaLys {
+  color:#000000;
+>>>>>>> 8fb05731657327e3da0e75733c47e71af77fb504
 }
