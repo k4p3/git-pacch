@@ -261,6 +261,13 @@ textarea {
   }
 }
 
+<<<<<<< HEAD
 head {
   border: 1px solid #cecece;
+=======
+/* los estilos del ro*/
+
+body {
+  font-size: 50rem;
+>>>>>>> 9e0d24e3f04b45be79e523694bcd5be0f910a54e
 }
