@@ -260,4 +260,7 @@ textarea {
     page-break-after: avoid;
   }
 }
-
+.tona {
+  background-color: rgb(10, 222, 209);
+  padding: 2rem;
+}
