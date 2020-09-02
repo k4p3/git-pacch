@@ -263,4 +263,5 @@ textarea {
 
 .segundaPruebaLys {
   clear: both;
+  page-break-after: avoid;
 }
