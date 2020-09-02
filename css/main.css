@@ -261,8 +261,11 @@ textarea {
   }
 }
 
-/* los estilos del ro*/ 
+/* los estilos del ro*/
 
 body {
   font-size: 50rem;
+}
+.estilochido{
+  color:pink;
 }
